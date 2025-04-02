@@ -3,7 +3,7 @@
 
 
 
-Here’s a step-by-step breakdown of how to create a local Git repository, modify an index.html file, perform commits, and restore versions of the file:
+Guide to step-by-step breakdown of how to create a local Git repository, modify an index.html file, perform commits, and restore versions of the file:
 
 #### Step 1: Create a Local Git Repository
 1. Open Terminal (or Command Prompt) on your system.
